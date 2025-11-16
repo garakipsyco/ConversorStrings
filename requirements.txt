@@ -1,0 +1,2 @@
+# Dependência essencial para o envio do Webhook (requisições HTTP)
+requests
